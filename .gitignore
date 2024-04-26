@@ -1,6 +1,8 @@
 # Datasets
 ./data/
 !./data/.gitkeep
+./data\mnist.tar.gz
+./data\mnist
 
 # Output
 out*
@@ -125,3 +127,5 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+data/mnist/
+data/mnist.tar.gz
